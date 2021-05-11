@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercíco2</string>
+    <string name="insira_o_primeiro_nome">Insira o primeiro nome</string>
+    <string name="insira_o_ultimo_nome">Insira o ultimo nome</string>
+</resources>
